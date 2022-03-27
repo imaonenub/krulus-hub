@@ -1,0 +1,70 @@
+-------auto update--------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------<[Xd_Tem_ Nope_Slayer_Xd]>#8795----------------------------------------------------------------------------------------------------
+
+
+
+
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("krulus Hub", "DarkTheme")
+
+local Tab = Window:NewTab("mm2")
+local Section = Tab:NewSection("mm2.ss")
+
+
+Section:NewButton("RUN.MM2", "runEXE", function()
+   loadstring(game:HttpGet(("https://pastebin.com/raw/KeBByND2"), true))()
+   print("runssmm2")
+end)
+
+local Tab = Window:NewTab("blox fruit")
+local Section = Tab:NewSection("bloxfruit[MUKURO Hub]")
+
+
+
+Section:NewButton("RUN.BLOXFRUIT", "runEXE", function()
+   loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()
+   print("runssbf")
+end) 
+
+local Tab = Window:NewTab("pet sim X")
+local Section = Tab:NewSection("script psX [SAZA HUB]")
+
+
+Section:NewButton("RUN.PSX", "runEXE", function()
+          _G.Color = Color3.fromRGB(255, 255, 255)
+     loadstring(game:HttpGet"https://rawscripts.net/raw/SAZA-HUB_496")()
+     print("runsspsX")
+end) 
+
+
+local Tab = Window:NewTab("bedwar")
+local Section = Tab:NewSection("bedwar script[VapeV4]")
+
+
+
+Section:NewButton("RUN.BEDWARS", "runEXE", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+   print("runssbws")
+end)
+
+
+local Tab = Window:NewTab("Horrific Housing")
+local Section = Tab:NewSection("Horrific Housing script")
+
+
+Section:NewButton("RUN.HH", "runEXE", function()
+   loadstring(game:HttpGet("https://paste.ee/r/GzZjj", true))()
+   print("runHH")
+end)
+
+
+local Tab = Window:NewTab("AFS")
+local Section = Tab:NewSection(" AFS script[KJ hub]")
+
+
+Section:NewButton("RUN.AFS", "runEXE", function()
+   loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/KiJinGaming/FreeScript/main/KJHub.lua"))()
+   print("runAFS")
+end)
